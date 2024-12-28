@@ -3,14 +3,14 @@
   "name": "ランダム名前生成アプリ",
   "icons": [
     {
-      "src": "icon-192x192.png",
+      "src": "DALL·E 2024-12-28 23.03.43 - A cute and charming icon for a random name generator application. The design should feature playful elements, such as colorful confetti or sparkles, w.webp",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/webp"
     },
     {
       "src": "icon-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/webp"
     }
   ],
   "start_url": "/index.html",
